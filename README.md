@@ -14,7 +14,7 @@ The app Login now is not vulnerable, but if u want to make it vulnerable just re
 
 and
 
-$stmt->close();
+    $stmt->close();
     $conn->close();
 
 on the login.php, but before that you can import the sql to ur phpmyadmin.
