@@ -27,4 +27,4 @@ on the password field
 
 ![Screenshot 2023-12-19 020257](https://github.com/YouKeyys/SQL-APP/assets/121857349/000ea690-155c-4ed4-94cd-cb4634665cd6)
 
-yeaa i know.. the login form is look like the github login page, because i just wanna make the same
+yeaa i know.. the login form is looking alike with the github login page, because i just wanna make the same design
