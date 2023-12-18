@@ -2,7 +2,7 @@ This is a Assignment to make vulnerable SQL Injection app, just a simple App i m
 
 The app Login now is not vulnerable, but if u want to make it vulnerable just remove the
 
-// what's added Before Vulnerable -start-
+
     // Prepare and bind parameters to prevent SQL injection
     $stmt = $conn->prepare("SELECT * FROM Users WHERE username = ? AND password = ?");
     $stmt->bind_param("ss", $username, $password);
@@ -10,7 +10,7 @@ The app Login now is not vulnerable, but if u want to make it vulnerable just re
     // Execute the prepared statement
     $stmt->execute();
     $result = $stmt->get_result();
-    // -end-
+ 
 
 and
 
