@@ -1,4 +1,4 @@
-This is a Assignment to make vulnerable SQL Injection app, just a simple App i make.
+This is an Assignment to make vulnerable SQL Injection app, just a simple App i make.
 
 The app Login now is not vulnerable, but if u want to make it vulnerable just remove the
 
